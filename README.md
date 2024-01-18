@@ -3,8 +3,8 @@
 <p align="left">My name is Xavier. I am currently learning web development through The Odin Project <img src="./img/odin-logo.svg" width="13px" alt="The Odin Project icon"> in the Full Stack JavaScript path. I speak and write 🇨🇦 English, 🏴󠁣󠁡󠁱󠁣󠁿 French, and 🇹🇼 Mandarin (still learning Hokkien/Taiwanese).</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background: white; border-radius: 3px;"> 
-<a href="https://github.com/" rel="noreferrer" target="_blank"><img src="./img/github-logo.svg" alt="GitHub logo" height="40px"></a>
+<p align="left" style="background: white; border-radius: 3px;">
+
 <a href="https://git-scm.com/" rel="noreferrer" target="_blank"><img src="./img/git-logo.svg" alt="Git logo" height="40px"></a>
 <a href="https://www.gnu.org/software/bash/" rel="noreferrer" target="_blank"><img src="./img/gnu-bash-logo.svg" alt="Bash logo" height="40px"></a>
 <a href="https://webpack.js.org/" rel="noreferrer" target="_blank"><img src="./img/webpack-logo.svg" alt="Webpack logo" height="40px"></a>
