@@ -19,4 +19,4 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erreurdesyntaxe&show_icons=true&locale=en&layout=compact" alt="Git Hub user ErreurDeSyntaxe's most used programming languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erreurdesyntaxe&show_icons=true&locale=en&layout=compact&langs_count=4" alt="Git Hub user ErreurDeSyntaxe's most used programming languages" /></p>
