@@ -15,6 +15,7 @@
 <a href="https://sass-lang.com/" rel="noreferrer" target="_blank"><img src="./img/sass-logo.svg" alt="CSS 3 logo" height="40px" width="40px"></a>
 <a href="https://www.npmjs.com/package/parcel" rel="noreferrer" target="_blank"><img src="./img/parcel-logo.svg" alt="Webpack logo" height="40px"></a>
 <a href="https://webpack.js.org/" rel="noreferrer" target="_blank"><img src="./img/webpack-logo.svg" alt="Webpack logo" height="40px"></a>
+<a href="https://vitest.dev/config/" rel="noreferrer" target="_blank"><img src="./img/vitest-logo.svg" alt="Vitest logo" height="40px"></a>
 
 </p>
 
