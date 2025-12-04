@@ -28,8 +28,6 @@
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="./img/css-logo.svg" alt="CSS3" height="40px" width="40px">
   </a>
-</p>
-<p align="left">
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="./img/sass-logo.svg" alt="Sass" height="40px" width="40px">
   </a>
@@ -53,8 +51,6 @@
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="./img/vite-logo.svg" alt="Vite" height="40px">
   </a>
-</p>
-<p align="left">
   <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
     <img src="./img/vitest-logo.svg" alt="Vitest" height="40px">
   </a>
