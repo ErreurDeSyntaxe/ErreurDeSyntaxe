@@ -76,9 +76,15 @@
 
 ## 🌱 Currently Learning
 
-- React (deep dive)
-- Node.JS
-- MongoDB
-- Express
-- Web tooling (Parcel, Webpack, Vite)
-- Testing frameworks (Vitest)
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="./img/expressjs-logo.svg" alt="" height="40px">
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="./img/nodejs-logo.svg" alt="" height="40px">
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="./img/mongodb-logo.svg" alt="" height="40px">
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="./img/nextjs-logo.svg" alt="" height="40px">
+</a>
